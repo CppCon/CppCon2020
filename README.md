@@ -48,3 +48,4 @@ and code from [CppCon 2020](http://cppcon.org).
  - [The Networking TS from Scratch: I-O Objects](Presentations/the_networking_ts_from_scratch_io_objects/the_networking_ts_from_scratch_io_objects__robert_leahy__cppcon_2020.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_from_scratch_io_objects)\]
  - [The Beauty and Power of 'Primitive' C++](Presentations/the_powr_and_beauty_of_primitive_c/the_powr_and_beauty_of_primitive_c__bjarne_stroustrup__cppcon_2020.pdf) by Bjarne Stroustrup
  - [The Shapes of Multi-Dimensional Arrays](Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf) by Vincent Reverdy
+ - [What's in a name? What's a name in?](Presentations/whats_in_a_name_whats_a_name_in/whats_in_a_name_whats_a_name_in__walter_e_brown__cppcon_2020.pdf) by Walter E Brown
