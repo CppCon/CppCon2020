@@ -20,6 +20,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back to Basics Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
  - [Back to Basics - The Abstract Machine](Presentations/back_to_basics_the_abstract_machine/back_to_basics_the_abstract_machine__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back to Basics - The Structure of a Program](Presentations/back_to_basics_the_structure_of_a_program/back_to_basics_the_structure_of_a_program__bob_steagall__cppcon_2020.pdf) by Bob Steagall
+ - [Breaking Dependencies - The SOLID Principles](Presentations/breaking_dependencies_the_solid_principles/breaking_dependencies_the_solid_principles__klaus_iglberger__cppcon_2020.pdf) by Klaus Iglberger
  - [Building a Coroutine based Job System without Standard Library](Presentations/building_a_coroutine_based_job_system_without_standard_library/building_a_coroutine_based_job_system_without_standard_library__tanki_zhang__cppcon_2020.pdf) by Tanki Zhang \[[README](Presentations/building_a_coroutine_based_job_system_without_standard_library/README.md)\]
  - [Constructing Generic Algorithms](Presentations/constructing_generic_algorithms/constructing_generic_algorithms__ben_deane__cppcon_2020.pdf) by Ben Deane
  - [C++20 An (Almost) Complete Overview](Presentations/cpp20_an_almost_complete_overview/cpp20_an_almost_complete_overview__marc_gregoire__cppcon_2020.pptx) by Marc Gregoire
