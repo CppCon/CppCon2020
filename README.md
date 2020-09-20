@@ -9,6 +9,7 @@ and code from [CppCon 2020](http://cppcon.org).
 
 ## Presentations
 
+ - [A Transaction-Based Multithreaded Locking Strategy for Containers](Presentations/a_transactionbased_multithreaded_locking_strategy_for_containers/a_transactionbased_multithreaded_locking_strategy_for_containers__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Adventures in SIMD Thinking - Part 1](Presentations/adventures_in_simd_thinking_part_1/adventures_in_simd_thinking_part_1__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Adventures in SIMD Thinking - Part 2](Presentations/adventures_in_simd_thinking_part_2/adventures_in_simd_thinking_part_2__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back To Basics Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
