@@ -15,6 +15,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Adventures in SIMD Thinking - Part 1](Presentations/adventures_in_simd_thinking_part_1/adventures_in_simd_thinking_part_1__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Adventures in SIMD Thinking - Part 2](Presentations/adventures_in_simd_thinking_part_2/adventures_in_simd_thinking_part_2__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back to Basics Algebraic Data Types](Presentations/back_to_basics_algebraic_data_types/back_to_basics_algebraic_data_types__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
+ - [Back to Basics - Class Layout](Presentations/back_to_basics_class_layout/back_to_basics_class_layout__steve_dewhurst__cppcon_2020.pdf) by Steve Dewhurst
  - [Back to Basics Concurrency](Presentations/back_to_basics_concurrency/back_to_basics_concurrency__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
  - [Back To Basics Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
