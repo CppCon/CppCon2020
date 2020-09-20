@@ -17,7 +17,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back to Basics - Algebraic Data Types](Presentations/back_to_basics_algebraic_data_types/back_to_basics_algebraic_data_types__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
  - [Back to Basics - Class Layout](Presentations/back_to_basics_class_layout/back_to_basics_class_layout__steve_dewhurst__cppcon_2020.pdf) by Steve Dewhurst
  - [Back to Basics - Concurrency](Presentations/back_to_basics_concurrency/back_to_basics_concurrency__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
- - [Back To Basics - Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
+ - [Back to Basics - Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics - Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
  - [Back to Basics - Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__rainer_grimm__cppcon_2020.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_smart_pointers)\]
  - [Back to Basics - The Abstract Machine](Presentations/back_to_basics_the_abstract_machine/back_to_basics_the_abstract_machine__bob_steagall__cppcon_2020.pdf) by Bob Steagall
