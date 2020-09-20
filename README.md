@@ -28,7 +28,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Introduction to Design Patterns](Presentations/introduction_to_design_patterns/introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Just-in-Time compilation](Presentations/justintime_compilation/justintime_compilation__jf_bastien__cppcon_2020.pdf) by JF Bastien
  - [Just-in-Time Compilation The Next Big Thing](Presentations/justintime_compilation_the_next_big_thing/justintime_compilation_the_next_big_thing__ben_deane_kris_jusiak__cppcon_2020.pdf) by Ben Deane & Kris Jusiak \[[README](Presentations/justintime_compilation_the_next_big_thing/README.md)\]
- - [Macro-free testing with C++20](Presentations/macrofree_testing_with_cpp20/macrofree_testing_with_cpp20__kris_jusiak__cppcon_2020.pdf) by Kris Jusiak
+ - [Macro-free testing with C++20](Presentations/macrofree_testing_with_cpp20/macrofree_testing_with_cpp20__kris_jusiak__cppcon_2020.pdf) by Kris Jusiak \[[README](Presentations/macrofree_testing_with_cpp20/README.md)\]
  - [Making Games Start Fast](Presentations/making_games_start_fast/making_games_start_fast__mathieu_ropert__cppcon_2020.pdf) by Mathieu Ropert
  - [Performance Matters](Presentations/performance_matters/performance_matters__emery_berger__cppcon_2020.pdf) by Emery Berger
  - [Quickly Testing Qt Desktop Applications with Approval Tests](Presentations/quickly_testing_qt_desktop_applications_with_approval_tests/quickly_testing_qt_desktop_applications_with_approval_tests__clare_macrae__cppcon_2020.pdf) by Clare Macrae \[[README](Presentations/quickly_testing_qt_desktop_applications_with_approval_tests/README.md)\] \[[more materials](Presentations/quickly_testing_qt_desktop_applications_with_approval_tests)\]
