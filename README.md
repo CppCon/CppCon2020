@@ -44,3 +44,4 @@ and code from [CppCon 2020](http://cppcon.org).
  - [The Many Shades of reference_wrapper](Presentations/the_many_shades_of_reference_wrapper/the_many_shades_of_reference_wrapper__zhihao_yuan__cppcon_2020.pdf) by Zhihao Yuan
  - [The Networking TS from Scratch: I-O Objects](Presentations/the_networking_ts_from_scratch_io_objects/the_networking_ts_from_scratch_io_objects__robert_leahy__cppcon_2020.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_from_scratch_io_objects)\]
  - [The Powr and Beauty of Primitive C](Presentations/the_powr_and_beauty_of_primitive_c/the_powr_and_beauty_of_primitive_c__bjarne_stroustrup__cppcon_2020.pdf) by Bjarne Stroustrup
+ - [The Shapes of Multi-Dimensional Arrays](Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf) by Vincent Reverdy
