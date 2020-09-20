@@ -14,6 +14,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Adventures in SIMD Thinking - Part 2](Presentations/adventures_in_simd_thinking_part_2/adventures_in_simd_thinking_part_2__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back To Basics Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics - The Abstract Machine](Presentations/back_to_basics_the_abstract_machine/back_to_basics_the_abstract_machine__bob_steagall__cppcon_2020.pdf) by Bob Steagall
+ - [Back to Basics - The Structure of a Program](Presentations/back_to_basics_the_structure_of_a_program/back_to_basics_the_structure_of_a_program__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Retiring the Singleton pattern](Presentations/retiring_the_singleton_pattern/retiring_the_singleton_pattern__peter_muldoon__cppcon_2020.pdf) by Peter Muldoon
 
 ## Lightning Talks and Lunch Sessions
