@@ -33,7 +33,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [From Functions to Coroutines ](Presentations/from_functions_to_coroutines_/from_functions_to_coroutines___rainer_grimm__cppcon_2020.pdf) by Rainer Grimm
  - [Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer](Presentations/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer__barnab%C3%A1s_b%C3%A1gyi__cppcon_2020.pdf) by Barnabás Bágyi
  - [Get Off My Thread](Presentations/get_off_my_thread/get_off_my_thread__anthony_williams__cppcon_2020.pdf) by Anthony Williams
- - [Introduction to Design Patterns](Presentations/introduction_to_design_patterns/introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
+ - [Back to Basics - Introduction to Design Patterns](Presentations/introduction_to_design_patterns/introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Just-in-Time compilation](Presentations/justintime_compilation/justintime_compilation__jf_bastien__cppcon_2020.pdf) by JF Bastien
  - [Just-in-Time Compilation The Next Big Thing](Presentations/justintime_compilation_the_next_big_thing/justintime_compilation_the_next_big_thing__ben_deane_kris_jusiak__cppcon_2020.pdf) by Ben Deane & Kris Jusiak \[[README](Presentations/justintime_compilation_the_next_big_thing/README.md)\]
  - [Macro-free testing with C++20](Presentations/macrofree_testing_with_cpp20/macrofree_testing_with_cpp20__kris_jusiak__cppcon_2020.pdf) by Kris Jusiak \[[README](Presentations/macrofree_testing_with_cpp20/README.md)\]
@@ -46,5 +46,5 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Taskflow: A General-purpose Paralleland Heterogeneous Task ProgrammingSystem using Modern C++](Presentations/taskflow_a_generalpurpose_paralleland_heterogeneous_task_programmingsystem_using_modern_cpp/taskflow_a_generalpurpose_paralleland_heterogeneous_task_programmingsystem_using_modern_cpp__tsungwei_huang__cppcon_2020.pdf) by Tsung-Wei Huang
  - [The Many Shades of reference_wrapper](Presentations/the_many_shades_of_reference_wrapper/the_many_shades_of_reference_wrapper__zhihao_yuan__cppcon_2020.pdf) by Zhihao Yuan
  - [The Networking TS from Scratch: I-O Objects](Presentations/the_networking_ts_from_scratch_io_objects/the_networking_ts_from_scratch_io_objects__robert_leahy__cppcon_2020.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_from_scratch_io_objects)\]
- - [The Powr and Beauty of Primitive C](Presentations/the_powr_and_beauty_of_primitive_c/the_powr_and_beauty_of_primitive_c__bjarne_stroustrup__cppcon_2020.pdf) by Bjarne Stroustrup
+ - [The Beauty and Power of 'Primitive' C++](Presentations/the_powr_and_beauty_of_primitive_c/the_powr_and_beauty_of_primitive_c__bjarne_stroustrup__cppcon_2020.pdf) by Bjarne Stroustrup
  - [The Shapes of Multi-Dimensional Arrays](Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf) by Vincent Reverdy
