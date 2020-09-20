@@ -15,10 +15,5 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back To Basics Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics - The Abstract Machine](Presentations/back_to_basics_the_abstract_machine/back_to_basics_the_abstract_machine__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back to Basics - The Structure of a Program](Presentations/back_to_basics_the_structure_of_a_program/back_to_basics_the_structure_of_a_program__bob_steagall__cppcon_2020.pdf) by Bob Steagall
+ - [Quickly Testing Qt Desktop Applications with Approval Tests](Presentations/quickly_testing_qt_desktop_applications_with_approval_tests/quickly_testing_qt_desktop_applications_with_approval_tests__clare_macrae__cppcon_2020.pdf) by Clare Macrae
  - [Retiring the Singleton pattern](Presentations/retiring_the_singleton_pattern/retiring_the_singleton_pattern__peter_muldoon__cppcon_2020.pdf) by Peter Muldoon
-
-## Lightning Talks and Lunch Sessions
-
-
-## Posters
-
