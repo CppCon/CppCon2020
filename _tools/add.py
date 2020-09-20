@@ -34,8 +34,6 @@ def make_readme(readme):
     readme.write("# Index of Materials\n")
     CATEGORIES = [
         "Presentations",
-        "Lightning Talks and Lunch Sessions",
-        "Posters"
     ]
     for category in CATEGORIES:
         add_index(readme, category)
@@ -122,14 +120,12 @@ def generate_index(readme, path):
 def add_presentation(path):
     SESSION_MAP = {
         'p': 'Presentations',
-        'l': 'Lightning Talks and Lunch Sessions',
-        'o': 'Posters'
     }
 
-    session = ""
+    # If there's more than one session type, init this to an empty string
+    session = "p"
     while not session or session not in SESSION_MAP.keys():
-        session = input("[P]resentation, [K]eynote, " +
-                        "[L]ighting/Lunch, P[o]ster? ").lower()
+        session = input("[P]resentation? ").lower()
     folder = SESSION_MAP[session]
 
     filename = split(path)[-1]

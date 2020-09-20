@@ -1,0 +1,3 @@
+# Do not check in the approved files, so that
+# demos show them being created, as tests are enabled.
+*.approved.*

@@ -1,0 +1,6 @@
+add_subdirectory(01HelloApprovals)
+add_subdirectory(02GildedRose)
+add_subdirectory(03LogFiles)
+add_subdirectory(04SVGFiles)
+add_subdirectory(05QTableWidget)
+add_subdirectory(06QImage)
