@@ -33,6 +33,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [C++20 String Formatting Library An Overview and Use with Custom Types](Presentations/cpp20_string_formatting_library_an_overview_and_use_with_custom_types/cpp20_string_formatting_library_an_overview_and_use_with_custom_types__marc_gregoire__cppcon_2020.pptx) by Marc Gregoire
  - [Cross Platform Pitfalls and How to Avoid Them](Presentations/cross_platform_pitfalls_and_how_to_avoid_them/cross_platform_pitfalls_and_how_to_avoid_them__erika_sweet__cppcon_2020.pdf) by Erika Sweet
  - [Exceptions Under The Spotlight](Presentations/exceptions_under_the_spotlight/exceptions_under_the_spotlight__inbal_levi__cppcon_2020.pdf) by Inbal Levi
+ - [Exploration Of C++20 Metaprogramming](Presentations/exploration_of_cpp20_metaprogramming/exploration_of_cpp20_metaprogramming__inbal_levi__cppcon_2020.pdf) by Inbal Levi
  - [From Functions to Coroutines ](Presentations/from_functions_to_coroutines_/from_functions_to_coroutines___rainer_grimm__cppcon_2020.pdf) by Rainer Grimm
  - [Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer](Presentations/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer__barnab%C3%A1s_b%C3%A1gyi__cppcon_2020.pdf) by Barnabás Bágyi
  - [Get Off My Thread](Presentations/get_off_my_thread/get_off_my_thread__anthony_williams__cppcon_2020.pdf) by Anthony Williams
