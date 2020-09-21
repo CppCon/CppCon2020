@@ -10,6 +10,7 @@ and code from [CppCon 2020](http://cppcon.org).
 ## Presentations
 
  - [2020 The Year of Sanitizers](Presentations/2020_the_year_of_sanitizers/2020_the_year_of_sanitizers__victor_ciura__cppcon_2020.pdf) by Victor Ciura
+ - [A New Decade of Visual Studio C++20, Open STL, and More](Presentations/a_new_decade_of_visual_studio_cpp20_open_stl_and_more/a_new_decade_of_visual_studio_cpp20_open_stl_and_more__sy_brand_marian_luparu__cppcon_2020.pdf) by Sy Brand, Marian Luparu
  - [A Relaxed Guide to memory_order_relaxed](Presentations/a_relaxed_guide_to_memory_order_relaxed/a_relaxed_guide_to_memory_order_relaxed__paul_e_mckenney___cppcon_2020.pdf) by Paul E. McKenney 
  - [A Transaction-Based Multithreaded Locking Strategy for Containers](Presentations/a_transactionbased_multithreaded_locking_strategy_for_containers/a_transactionbased_multithreaded_locking_strategy_for_containers__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Adventures in SIMD Thinking - Part 1](Presentations/adventures_in_simd_thinking_part_1/adventures_in_simd_thinking_part_1__bob_steagall__cppcon_2020.pdf) by Bob Steagall
