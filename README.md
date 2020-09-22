@@ -23,6 +23,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back to Basics - Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
  - [Back to Basics - Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__rainer_grimm__cppcon_2020.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_smart_pointers)\]
  - [Back to Basics - Templates (part 1)](Presentations/back_to_basics_templates_part_1/back_to_basics_templates_part_1__andreas_fertig__cppcon_2020.pdf) by Andreas Fertig
+ - [Back to Basics - Templates (part 2)](Presentations/back_to_basics_templates_part_2/back_to_basics_templates_part_2__andreas_fertig__cppcon_2020.pdf) by Andreas Fertig
  - [Back to Basics - The Abstract Machine](Presentations/back_to_basics_the_abstract_machine/back_to_basics_the_abstract_machine__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Back to Basics - The Structure of a Program](Presentations/back_to_basics_the_structure_of_a_program/back_to_basics_the_structure_of_a_program__bob_steagall__cppcon_2020.pdf) by Bob Steagall
  - [Breaking Dependencies - The SOLID Principles](Presentations/breaking_dependencies_the_solid_principles/breaking_dependencies_the_solid_principles__klaus_iglberger__cppcon_2020.pdf) by Klaus Iglberger
