@@ -42,6 +42,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer](Presentations/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer__barnab%C3%A1s_b%C3%A1gyi__cppcon_2020.pdf) by Barnabás Bágyi
  - [Get Off My Thread](Presentations/get_off_my_thread/get_off_my_thread__anthony_williams__cppcon_2020.pdf) by Anthony Williams
  - [Halide A Language for Fast, Portable Computation on Images and Tensors](Presentations/halide_a_language_for_fast_portable_computation_on_images_and_tensors/halide_a_language_for_fast_portable_computation_on_images_and_tensors__alex_reinking__cppcon_2020.pptx) by Alex Reinking
+ - [How C++20 Changes the Way We Write Code](Presentations/how_cpp20_changes_the_way_we_write_code/how_cpp20_changes_the_way_we_write_code__timur_doumler__cppcon_2020.pdf) by Timur Doumler
  - [Back to Basics - Introduction to Design Patterns](Presentations/introduction_to_design_patterns/introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Just-in-Time compilation](Presentations/justintime_compilation/justintime_compilation__jf_bastien__cppcon_2020.pdf) by JF Bastien
  - [Just-in-Time Compilation The Next Big Thing](Presentations/justintime_compilation_the_next_big_thing/justintime_compilation_the_next_big_thing__ben_deane_kris_jusiak__cppcon_2020.pdf) by Ben Deane & Kris Jusiak \[[README](Presentations/justintime_compilation_the_next_big_thing/README.md)\]
