@@ -19,8 +19,8 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back to Basics - Algebraic Data Types](Presentations/back_to_basics_algebraic_data_types/back_to_basics_algebraic_data_types__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
  - [Back to Basics - Class Layout](Presentations/back_to_basics_class_layout/back_to_basics_class_layout__steve_dewhurst__cppcon_2020.pdf) by Steve Dewhurst
  - [Back to Basics - Concurrency](Presentations/back_to_basics_concurrency/back_to_basics_concurrency__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
+ - [Back to Basics - Design Patterns](Presentations/back_to_basics_design_patterns/back_to_basics_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Back to Basics - Exceptions](Presentations/back_to_basics_exceptions/back_to_basics_exceptions__klaus_iglberger__cppcon_2020.pdf) by Klaus Iglberger
- - [Back to Basics - Introduction to Design Patterns](Presentations/back_to_basics_introduction_to_design_patterns/back_to_basics_introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Back to Basics - Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics - Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
  - [Back to Basics - Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__rainer_grimm__cppcon_2020.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_smart_pointers)\]
@@ -40,7 +40,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Empirically Measuring and Reducing C++ Accidental Complexity](Presentations/empirically_measuring_and_reducing_cpp_accidental_complexity/empirically_measuring_and_reducing_cpp_accidental_complexity__herb_sutter__cppcon_2020.pdf) by Herb Sutter
  - [Exceptions Under The Spotlight](Presentations/exceptions_under_the_spotlight/exceptions_under_the_spotlight__inbal_levi__cppcon_2020.pdf) by Inbal Levi
  - [Exploration Of C++20 Metaprogramming](Presentations/exploration_of_cpp20_metaprogramming/exploration_of_cpp20_metaprogramming__inbal_levi__cppcon_2020.pdf) by Inbal Levi
- - [From Functions to Coroutines ](Presentations/from_functions_to_coroutines_/from_functions_to_coroutines___rainer_grimm__cppcon_2020.pdf) by Rainer Grimm
+ - [From Functions to Coroutines](Presentations/from_functions_to_coroutines/from_functions_to_coroutines__rainer_grimm__cppcon_2020.pdf) by Rainer Grimm
  - [Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer](Presentations/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer/fuzzing_class_interfaces_for_generating_and_running_tests_with_libfuzzer__barnab%C3%A1s_b%C3%A1gyi__cppcon_2020.pdf) by Barnabás Bágyi
  - [Get Off My Thread](Presentations/get_off_my_thread/get_off_my_thread__anthony_williams__cppcon_2020.pdf) by Anthony Williams
  - [Halide A Language for Fast, Portable Computation on Images and Tensors](Presentations/halide_a_language_for_fast_portable_computation_on_images_and_tensors/halide_a_language_for_fast_portable_computation_on_images_and_tensors__alex_reinking__cppcon_2020.pptx) by Alex Reinking
@@ -60,10 +60,10 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Scientific Unit Testing](Presentations/scientific_unit_testing/scientific_unit_testing__dave_steffen__cppcon_2020.pdf) by Dave Steffen
  - [Some Things C++ Does Right](Presentations/some_things_cpp_does_right/some_things_cpp_does_right__patrice_roy__cppcon_2020.pdf) by Patrice Roy
  - [Structure and Interpretation of Computer Programs](Presentations/structure_and_interpretation_of_computer_programs/structure_and_interpretation_of_computer_programs__conor_hoekstra__cppcon_2020.pdf) by Conor Hoekstra \[[README](Presentations/structure_and_interpretation_of_computer_programs/README.md)\]
- - [Taskflow: A General-purpose Paralleland Heterogeneous Task ProgrammingSystem using Modern C++](Presentations/taskflow_a_generalpurpose_paralleland_heterogeneous_task_programmingsystem_using_modern_cpp/taskflow_a_generalpurpose_paralleland_heterogeneous_task_programmingsystem_using_modern_cpp__tsungwei_huang__cppcon_2020.pdf) by Tsung-Wei Huang
+ - [Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System using Modern C++](Presentations/taskflow_a_generalpurpose_parallel_and_heterogeneous_task_programming_system_using_modern_cpp/taskflow_a_generalpurpose_parallel_and_heterogeneous_task_programming_system_using_modern_cpp__tsungwei_huang__cppcon_2020.pdf) by Tsung-Wei Huang
  - [Template Metaprogramming - Type Traits](Presentations/template_metaprogramming_type_traits/template_metaprogramming_type_traits__jody_hagins__cppcon_2020.pdf) by Jody Hagins
  - [The Many Shades of reference_wrapper](Presentations/the_many_shades_of_reference_wrapper/the_many_shades_of_reference_wrapper__zhihao_yuan__cppcon_2020.pdf) by Zhihao Yuan
- - [The Networking TS from Scratch: I-O Objects](Presentations/the_networking_ts_from_scratch_io_objects/the_networking_ts_from_scratch_io_objects__robert_leahy__cppcon_2020.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_from_scratch_io_objects)\]
+ - [The Networking TS from Scratch: I/O Objects](Presentations/the_networking_ts_from_scratch_io_objects/the_networking_ts_from_scratch_io_objects__robert_leahy__cppcon_2020.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_from_scratch_io_objects)\]
  - [The Beauty and Power of 'Primitive' C++](Presentations/the_powr_and_beauty_of_primitive_c/the_powr_and_beauty_of_primitive_c__bjarne_stroustrup__cppcon_2020.pdf) by Bjarne Stroustrup
  - [The Shapes of Multi-Dimensional Arrays](Presentations/the_shapes_of_multidimensional_arrays/the_shapes_of_multidimensional_arrays__vincent_reverdy__cppcon_2020.pdf) by Vincent Reverdy
  - [The Surprising Costs of void()](Presentations/the_surprising_costs_of_void/the_surprising_costs_of_void__patrice_roy__cppcon_2020.pdf) by Patrice Roy
