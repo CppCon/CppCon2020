@@ -50,6 +50,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Macro-free testing with C++20](Presentations/macrofree_testing_with_cpp20/macrofree_testing_with_cpp20__kris_jusiak__cppcon_2020.pdf) by Kris Jusiak \[[README](Presentations/macrofree_testing_with_cpp20/README.md)\]
  - [Making Games Start Fast](Presentations/making_games_start_fast/making_games_start_fast__mathieu_ropert__cppcon_2020.pdf) by Mathieu Ropert
  - [Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces](Presentations/making_iterators_views_and_containers_easier_to_write_with_booststlinterfaces/making_iterators_views_and_containers_easier_to_write_with_booststlinterfaces__zach_laine__cppcon_2020.pdf) by Zach Laine
+ - [Managarm - A Fully Asynchronous Operating System Powered By Modern C++](Presentations/managarm_a_fully_asynchronous_operating_system_powered_by_modern_cpp/managarm_a_fully_asynchronous_operating_system_powered_by_modern_cpp__alexander_van_der_grinten__cppcon_2020.pdf) by Alexander van der Grinten
  - [Neighborhoods Banding Together](Presentations/neighborhoods_banding_together/neighborhoods_banding_together__lisa_lippincott__cppcon_2020.pdf) by Lisa Lippincott
  - [Performance Matters](Presentations/performance_matters/performance_matters__emery_berger__cppcon_2020.pdf) by Emery Berger
  - [Pipes: How Plumbing Can Make Your C++ Code More Expressive](Presentations/pipes_how_plumbing_can_make_your_cpp_code_more_expressive/pipes_how_plumbing_can_make_your_cpp_code_more_expressive__jonathan_boccara__cppcon_2020.pdf) by Jonathan Boccara
