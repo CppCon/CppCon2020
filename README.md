@@ -20,6 +20,7 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Back to Basics - Class Layout](Presentations/back_to_basics_class_layout/back_to_basics_class_layout__steve_dewhurst__cppcon_2020.pdf) by Steve Dewhurst
  - [Back to Basics - Concurrency](Presentations/back_to_basics_concurrency/back_to_basics_concurrency__arthur_odwyer__cppcon_2020.pdf) by Arthur O'Dwyer
  - [Back to Basics - Exceptions](Presentations/back_to_basics_exceptions/back_to_basics_exceptions__klaus_iglberger__cppcon_2020.pdf) by Klaus Iglberger
+ - [Back to Basics - Introduction to Design Patterns](Presentations/back_to_basics_introduction_to_design_patterns/back_to_basics_introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Back to Basics - Lambda Expressions](Presentations/back_to_basics_lambda_expressions/back_to_basics_lambda_expressions__barbara_geller__ansel_sermersheim__cppcon_2020.pdf) by Barbara Geller & Ansel Sermersheim
  - [Back to Basics - Move Semantics](Presentations/back_to_basics_move_semantics/back_to_basics_move_semantics__david_olsen__cppcon_2020.pdf) by David Olsen
  - [Back to Basics - Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__rainer_grimm__cppcon_2020.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_smart_pointers)\]
@@ -44,7 +45,6 @@ and code from [CppCon 2020](http://cppcon.org).
  - [Get Off My Thread](Presentations/get_off_my_thread/get_off_my_thread__anthony_williams__cppcon_2020.pdf) by Anthony Williams
  - [Halide A Language for Fast, Portable Computation on Images and Tensors](Presentations/halide_a_language_for_fast_portable_computation_on_images_and_tensors/halide_a_language_for_fast_portable_computation_on_images_and_tensors__alex_reinking__cppcon_2020.pptx) by Alex Reinking
  - [How C++20 Changes the Way We Write Code](Presentations/how_cpp20_changes_the_way_we_write_code/how_cpp20_changes_the_way_we_write_code__timur_doumler__cppcon_2020.pdf) by Timur Doumler
- - [Back to Basics - Introduction to Design Patterns](Presentations/introduction_to_design_patterns/introduction_to_design_patterns__michael_shah__cppcon_2020.pdf) by Michael Shah
  - [Just-in-Time compilation](Presentations/justintime_compilation/justintime_compilation__jf_bastien__cppcon_2020.pdf) by JF Bastien
  - [Just-in-Time Compilation The Next Big Thing](Presentations/justintime_compilation_the_next_big_thing/justintime_compilation_the_next_big_thing__ben_deane_kris_jusiak__cppcon_2020.pdf) by Ben Deane & Kris Jusiak \[[README](Presentations/justintime_compilation_the_next_big_thing/README.md)\]
  - [Macro-free testing with C++20](Presentations/macrofree_testing_with_cpp20/macrofree_testing_with_cpp20__kris_jusiak__cppcon_2020.pdf) by Kris Jusiak \[[README](Presentations/macrofree_testing_with_cpp20/README.md)\]
